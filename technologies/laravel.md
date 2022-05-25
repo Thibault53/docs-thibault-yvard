@@ -19,5 +19,5 @@ Il y a quelques prérequis avant d'installer Laravel :
 - La dernière est d'installer Composer.
 
 
-# Création d'un projet Laraval
+# Création d'un projet Laravel
 ```composer create-project laravel/laravel laravel```
